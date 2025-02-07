@@ -325,7 +325,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="D:\RayTracing\RayTracing.cpp" />
-    <ClInclude Include="D:\RayTracing\RayTracing.h" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
